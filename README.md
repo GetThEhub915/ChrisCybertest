@@ -17,9 +17,11 @@
 
 </h2> Certifications</h2><br>
 <li>Comptia A+<br>
-<li>Comptia Network +<br>
-<li>Comptia Security +<br>
+<li>Comptia Network+<br>
+<li>Comptia Security+<br>
 <li>ISC^2 Associate<br>
+<li>CISSP-In progress</br>
+<li>NIMS:ICS-100-In progress</li>
 <li>ITIL<br>
 <li>Google IT Support Professional 
 <li>Google cybersecurity
