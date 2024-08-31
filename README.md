@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<li>[Active directory Home Lab](https://www.youtube.com/watch?v=MHsI8hJmggI&t=4s)<br>
-<li>[Power shell home Lab](https://www.youtube.com/watch?v=MP_UR5iWfZQ)<br>
+<li>[Active directory Home Lab][(https://www.youtube.com/watch?v=MHsI8hJmggI&t=4s)](https://github.com/GetThEhub915)<br>
 <li>[Creating Honeynet and resolving attacks](https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=39s)</li>
 
 <h2>📺 Popular YouTube Videos</h2>
