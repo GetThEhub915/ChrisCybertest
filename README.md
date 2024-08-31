@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <li>[Active directory Home Lab][(https://www.youtube.com/watch?v=MHsI8hJmggI&t=4s)](https://github.com/GetThEhub915)<br>
-<li>[Creating Honeynet and resolving attacks](https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=39s)</li>
+<li>[Creating Honeynet and resolving attacks]-Comming soon
 
 <h2>📺 Popular YouTube Videos</h2>
 <li>[Tutorial] Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s) <br>
@@ -11,7 +11,8 @@
 <li>Security+ By Pete Zerger (https://www.youtube.com/watch?v=9Hd8QJmZQUc&list=PL7XJSuT7Dq_VD3eHXQf3Ld2ceBSFCayns)<br>
 <li>Professor Messer (https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)<br>
 <li>Professor Messer (https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)<br>
-<li>NetworkChuck (https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF}<br><br>
+<li>NetworkChuck (https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF}<br>
+<li>Josh Madakor(https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=39s)</li></li><br>
 
 
 </h2> Certifications</h2><br>
