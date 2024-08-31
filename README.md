@@ -20,7 +20,7 @@
 <li>Comptia Network+<br>
 <li>Comptia Security+<br>
 <li>ISC^2 Associate<br>
-<li>PxC Swizeerland material<br>
+<li>PxC Swizeerland<br>
 <li>CISSP-In progress</br>
 <li>NIMS:ICS-100-In progress</li>
 <li>ITIL<br>
