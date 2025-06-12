@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <li>[Active directory Home Lab]https://github.com/GetThEhub915/Active-directory-Lab<br>
-<li>[Creating Honeynet and resolving attacks]-Coming soon
+<li>[Creating Honeynet and resolving attacks]
 
 <h2>📺 Popular YouTube Videos</h2>
 <li>[Tutorial] Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s) <br>
