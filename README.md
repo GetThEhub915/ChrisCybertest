@@ -18,6 +18,8 @@
 
 </h2> Certifications</h2><br>
 <li>Comptia A+<br>
+<li>Pentester+ In process<br>
+<li>Cloud+ In process<br>
 <li>Comptia Network+<br>
 <li>Comptia Security+<br>
 <li>ISC^2 Associate<br>
