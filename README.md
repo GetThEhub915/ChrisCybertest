@@ -12,7 +12,7 @@
 <li>Professor Messer (https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)<br>
 <li>Professor Messer (https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)<br>
 <li>NetworkChuck (https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF}<br>
-<li>Josh Madakor(https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=39s)</li></li><br>
+<li>Josh Madakor(https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=39s)</li></li>
 <li>Home lab creation for pentesting(https://youtu.be/SXMkY-u8Vhk?si=Upqsbf4Fvz5MxbPI)</li>
 
 
