@@ -18,18 +18,18 @@
 
 </h2> Certifications</h2><br>
 <li>Comptia A+<br>
-<li>Pentester+ In process<br>
+<li>Pentester+ <br>
 <li>Cloud+ In process<br>
 <li>Comptia Network+<br>
 <li>Comptia Security+<br>
-<li>ISC^2 Associate<br>
+<li>ISC^2 <br>
 <li>PxC Switzerland<br>
 <li>CISSP-In progress</br>
 <li>NIMS:ICS-100-In progress</li>
 <li>ITIL<br>
 <li>Google IT Support Professional 
 <li>Google cybersecurity
-<li>Learning ServiceNow
+<li>ServiceNow
 <li>Subneting in your head
 
   <h2> 🤳 Connect with me:</h2>
