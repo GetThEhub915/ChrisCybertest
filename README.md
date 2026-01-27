@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris! <br/>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻helpful links & aquired cetifications:</h2>
 
 <li>[Active directory Home Lab]https://github.com/GetThEhub915/Active-directory-Lab<br>
 <li>[Creating Honeynet and resolving attacks]
